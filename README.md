@@ -1,2 +1,6 @@
 # HelloWorld
-classic hello world start
+
+This is a start at least.
+Lets get together and learn learn learn.
+
+GoForTheWin
